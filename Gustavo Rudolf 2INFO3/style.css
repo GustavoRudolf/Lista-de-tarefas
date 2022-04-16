@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(85, 81, 81);
+}
+
+main {
+    background-color: rgb(85, 81, 81);
+    color: rgb(7, 6, 6);
+}
+
+.container {
+    width: 50%;
+    margin: 20px auto 0px auto;
+}
+
+.removed {
+    color: gray;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
+
+ul li {
+    list-style-type: none;
+}
